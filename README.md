@@ -17,3 +17,7 @@ After that, feel free to pass to script any image from dataset https://sartorius
 
 ``py .\main.py C:\Users\MEDIA\Desktop\LiveCELL\A172_Phase_C7_1_00d00h00m_2.tif
 ``
+
+Output sample:
+
+![img.png](img.png)
